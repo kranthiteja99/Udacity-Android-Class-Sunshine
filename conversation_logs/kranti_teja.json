@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "speaker": "bot",
+    "text": "Hi, what is your name?"
+  },
+  {
+    "start": 3.0,
+    "end": 5.0,
+    "speaker": "user",
+    "text": "My name is Kranti Teja."
+  },
+  {
+    "start": 7.0,
+    "end": 9.0,
+    "speaker": "bot",
+    "text": "What is your zip code?"
+  },
+  {
+    "start": 10.0,
+    "end": 13.0,
+    "speaker": "bot",
+    "text": "432145."
+  }
+]

@@ -1,0 +1,69 @@
+[
+    
+
+      {
+        "name": "Marcus Hill",
+        "zip_code": "9407",
+        "audio_file": "coop.m4a",
+        "agrees_to_transfer": false,
+        "persona_traits": ["cooperative","noisy background"]
+      },
+      {
+        "name": " Daniel Rivera",
+        "zip_code": "32801",
+        "audio_file": "samp2.m4a",
+        "agrees_to_transfer": false,
+        "persona_traits": ["reluctant","noisy background"]
+      },
+      {
+        "name": "noname",
+        "zip_code": "00000",
+        "audio_file": "reluctant_noise.m4a",
+        "agrees_to_transfer": false,
+        "persona_traits": ["noisy background", "reluctant"]
+      },
+      {
+        "name": "Evelyn Tran",
+        "zip_code": "97214",
+        "audio_file": "unclear_noise.m4a",
+        "agrees_to_transfer": false,
+        "persona_traits": ["noisy background", "unclear"]
+      },
+      {
+        "name": "Jamal Thomas",
+        "zip_code": "60616",
+        "audio_file": "frustated_negative.m4a",
+        "agrees_to_transfer": true,
+        "persona_traits": ["frustated", "Negative"]
+      }
+      ,{
+        "name": "Emily Sanders",
+        "zip_code": "95125",
+        "audio_file": "confused.m4a",
+        "agrees_to_transfer": true,
+        "persona_traits": ["confused", "unsure"]
+      },
+      {
+        "name": "Melissa Carter ",
+        "zip_code": "27609",
+        "audio_file": "distracted.m4a",
+        "agrees_to_transfer": false,
+        "persona_traits": ["confused", "clear"]
+      },
+      {
+        "name": "Mark Chen",
+        "zip_code": "1118",
+        "audio_file": "skeptical_distrustful.m4a",
+        "agrees_to_transfer": false,
+        "persona_traits": ["skeptical", "distrustful"]
+      },
+      {
+        "name": "Priya Kapoor",
+        "zip_code": "3309",
+        "audio_file": "ex.m4a",
+        "agrees_to_transfer": false,
+        "persona_traits": ["curious", "noisy background"]
+      }
+  ]
+  
+  

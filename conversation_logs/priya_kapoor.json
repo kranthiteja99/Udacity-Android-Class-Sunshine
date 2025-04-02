@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.0,
+    "speaker": "bot",
+    "text": "Hey welcome to Safe Arbor Insurance. We help folks like you compare and choose coverage for"
+  },
+  {
+    "start": 6.0,
+    "end": 12.0,
+    "speaker": "bot",
+    "text": "a woman auto, simple, fast, and personal. Can I get your full name to begin your quote?"
+  },
+  {
+    "start": 12.0,
+    "end": 20.0,
+    "speaker": "user",
+    "text": "Why do you need that? Great question. It just helps me start your quote and get things ready in case you want to speak with an agent later."
+  },
+  {
+    "start": 20.0,
+    "end": 26.0,
+    "speaker": "user",
+    "text": "Okay, make sense. It's Priya Kapoor. Thanks Priya. What's your full address and zip?"
+  },
+  {
+    "start": 26.0,
+    "end": 32.0,
+    "speaker": "user",
+    "text": "1448 Ashbury Street, San Francisco, California 3309."
+  },
+  {
+    "start": 32.0,
+    "end": 36.0,
+    "speaker": "bot",
+    "text": "Would you like to speak with one of our licensed agents to continue their options?"
+  },
+  {
+    "start": 36.0,
+    "end": 40.0,
+    "speaker": "user",
+    "text": "Yeah, sure. Great. Connecting you now."
+  }
+]

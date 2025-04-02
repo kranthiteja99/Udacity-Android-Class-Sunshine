@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.12,
+    "speaker": "bot",
+    "text": "Hi there. I can help you get started with your insurance quote. Can I have your full name?"
+  },
+  {
+    "start": 6.12,
+    "end": 10.28,
+    "speaker": "user",
+    "text": "It's Jamal Thomas. Let's just get this over with."
+  },
+  {
+    "start": 10.28,
+    "end": 13.6,
+    "speaker": "bot",
+    "text": "Thanks Jamal. What's your full address including Zip?"
+  },
+  {
+    "start": 13.6,
+    "end": 19.080000000000002,
+    "speaker": "bot",
+    "text": "925 Lakeview Drive, Chicago, Illinois 60616."
+  },
+  {
+    "start": 19.080000000000002,
+    "end": 23.8,
+    "speaker": "bot",
+    "text": "Got it? Thank you. Would you like me to connect you with a licensed agent now"
+  },
+  {
+    "start": 23.8,
+    "end": 26.12,
+    "speaker": "user",
+    "text": "to go over the available options?"
+  },
+  {
+    "start": 26.12,
+    "end": 32.160000000000004,
+    "speaker": "user",
+    "text": "No, not really. I've done this before and ended up getting a bunch of spam calls."
+  },
+  {
+    "start": 32.160000000000004,
+    "end": 37.480000000000004,
+    "speaker": "user",
+    "text": "Totally hear you and I appreciate you being honest. Just to clarify, we only use your info"
+  },
+  {
+    "start": 37.480000000000004,
+    "end": 44.36,
+    "speaker": "user",
+    "text": "to help our licensed agent guide you through cover options. No spam, no pressure, AI, plus."
+  },
+  {
+    "start": 44.36,
+    "end": 48.760000000000005,
+    "speaker": "user",
+    "text": "Sometimes there are local discounts or bundled savings they can walk you through."
+  },
+  {
+    "start": 48.760000000000005,
+    "end": 51.16,
+    "speaker": "user",
+    "text": "It usually just takes a few minutes."
+  },
+  {
+    "start": 51.16,
+    "end": 55.16,
+    "speaker": "user",
+    "text": "Hmm. I don't know. No worries if you're not ready."
+  },
+  {
+    "start": 55.72,
+    "end": 58.919999999999995,
+    "speaker": "user",
+    "text": "But it could save you a good amount, especially in your zip."
+  },
+  {
+    "start": 58.919999999999995,
+    "end": 61.4,
+    "speaker": "user",
+    "text": "Want to just hear what they say?"
+  },
+  {
+    "start": 61.4,
+    "end": 67.47999999999999,
+    "speaker": "user",
+    "text": "All right, fine. I'll talk to them, but just for a quick quote, totally fair."
+  },
+  {
+    "start": 67.47999999999999,
+    "end": 70.47999999999999,
+    "speaker": "bot",
+    "text": "Connecting you now, one moment."
+  }
+]

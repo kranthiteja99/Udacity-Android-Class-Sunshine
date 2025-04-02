@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.5,
+    "speaker": "bot",
+    "text": "Hi, I'm from insurance company, so I want to know what is your name."
+  },
+  {
+    "start": 3.5,
+    "end": 7.0,
+    "speaker": "user",
+    "text": "Hi, I'm from insurance company, so I want to know what is your name."
+  },
+  {
+    "start": 7.0,
+    "end": 12.0,
+    "speaker": "user",
+    "text": "My name is Thaduai Kranti Teja."
+  },
+  {
+    "start": 12.0,
+    "end": 16.0,
+    "speaker": "bot",
+    "text": "So, what's your zip code?"
+  },
+  {
+    "start": 16.0,
+    "end": 22.0,
+    "speaker": "bot",
+    "text": "14798."
+  },
+  {
+    "start": 22.0,
+    "end": 27.0,
+    "speaker": "bot",
+    "text": "So, do you want to talk to our customer character?"
+  },
+  {
+    "start": 27.0,
+    "end": 32.0,
+    "speaker": "user",
+    "text": "Yes, transfer the call."
+  }
+]

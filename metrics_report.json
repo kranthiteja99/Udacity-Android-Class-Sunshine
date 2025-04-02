@@ -1,0 +1,51 @@
+{
+    "total_tests": 10,
+    "success_count": 5,
+    "success_rate": 50.0,
+    "breakdown": {
+        "Alice": {
+            "success": 1,
+            "failure": 0
+        },
+        "Bob": {
+            "success": 0,
+            "failure": 1
+        },
+        "Carol": {
+            "success": 1,
+            "failure": 0
+        },
+        "Dave": {
+            "success": 0,
+            "failure": 1
+        },
+        "Eve": {
+            "success": 1,
+            "failure": 0
+        },
+        "Frank": {
+            "success": 1,
+            "failure": 0
+        },
+        "Grace": {
+            "success": 0,
+            "failure": 1
+        },
+        "Heidi": {
+            "success": 1,
+            "failure": 0
+        },
+        "Ivan": {
+            "success": 0,
+            "failure": 1
+        },
+        "Judy": {
+            "success": 0,
+            "failure": 1
+        }
+    },
+    "common_failures": {
+        "Sales pitch rejected": 4,
+        "Missing name": 2
+    }
+}

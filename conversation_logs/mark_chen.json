@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.0,
+    "speaker": "bot",
+    "text": "Hi, welcome to Safe Harbor Insurance. We help people find the right insurance plans for their needs."
+  },
+  {
+    "start": 6.0,
+    "end": 9.0,
+    "speaker": "bot",
+    "text": "Without the hassle, can I get your full name to begin?"
+  },
+  {
+    "start": 9.0,
+    "end": 11.0,
+    "speaker": "user",
+    "text": "Why should I give you that?"
+  },
+  {
+    "start": 11.0,
+    "end": 17.0,
+    "speaker": "user",
+    "text": "Totally fair. I only use it to prepare your quote and make sure everything's ready if you choose to speak with an agent."
+  },
+  {
+    "start": 17.0,
+    "end": 19.0,
+    "speaker": "user",
+    "text": "We take privacy seriously."
+  },
+  {
+    "start": 19.0,
+    "end": 21.0,
+    "speaker": "user",
+    "text": "All right, it's Mark Chen."
+  },
+  {
+    "start": 21.0,
+    "end": 24.0,
+    "speaker": "bot",
+    "text": "Thanks Mark, and your address including Zip."
+  },
+  {
+    "start": 24.0,
+    "end": 27.0,
+    "speaker": "bot",
+    "text": "88 Spring Street, New York, NY 1118."
+  },
+  {
+    "start": 27.0,
+    "end": 32.0,
+    "speaker": "bot",
+    "text": "Got it. Want me to connect you with a licensed agent to go over your options."
+  },
+  {
+    "start": 32.0,
+    "end": 34.0,
+    "speaker": "bot",
+    "text": "No thanks, not right now."
+  },
+  {
+    "start": 34.0,
+    "end": 37.0,
+    "speaker": "bot",
+    "text": "No problem at all. We'll be here when you're ready."
+  }
+]

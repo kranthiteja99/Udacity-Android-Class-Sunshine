@@ -1,0 +1,10 @@
+persona,expected_zip,extracted_name,extracted_zip,customer_agreed,bot_transferred,name_correct,zip_correct,success,traits,timestamp
+marcus hill,9407,Marcus Hill,9407,True,True,True,True,True,"cooperative, noisy background",2025-04-01T19:15:23.020092
+daniel rivera,32801,Daniel Rivera,32801,True,True,True,True,True,"reluctant, noisy background",2025-04-01T19:15:27.308452
+noname,00000,Need Your,Not found,True,True,False,,False,"noisy background, reluctant",2025-04-01T19:15:29.648632
+evelyn tran,97214,A Great,Not found,True,False,False,,False,"noisy background, unclear",2025-04-01T19:15:35.853345
+jamal thomas,60616,Jamal Thomas,60616,True,True,True,True,True,"frustated, Negative",2025-04-01T19:15:40.174085
+emily sanders,95125,Emily Sanders,95125,True,True,True,True,True,"confused, unsure",2025-04-01T19:15:42.346301
+melissa carter,27609,Melissa Carter,27609,True,False,True,True,False,"confused, clear",2025-04-01T19:15:45.883747
+mark chen,1118,Mark Chen,1118,True,False,True,True,False,"skeptical, distrustful",2025-04-01T19:15:48.574275
+priya kapoor,3309,Priya Kapoor,3309,True,True,True,True,True,"curious, noisy background",2025-04-01T19:15:51.146658

@@ -1,0 +1,32 @@
+[
+  {
+    "start": 0.0,
+    "end": 9.38,
+    "speaker": "bot",
+    "text": "Hi. Welcome to Safe Harbor Insurance. We help people like you find affordable home and"
+  },
+  {
+    "start": 9.38,
+    "end": 17.080000000000002,
+    "speaker": "user",
+    "text": "auto coverage tailored to your area. What's your full name? Uh, just Emily. Thanks, Emily."
+  },
+  {
+    "start": 17.080000000000002,
+    "end": 23.16,
+    "speaker": "user",
+    "text": "Could I also get your last name? Right, Emily Sanders. Great. And your full address"
+  },
+  {
+    "start": 23.16,
+    "end": 33.86,
+    "speaker": "user",
+    "text": "including Zip. Um, 1329 Willow Road. I think Zip is 95,125. That works. Would you like to chat"
+  },
+  {
+    "start": 33.86,
+    "end": 39.08,
+    "speaker": "user",
+    "text": "with one of our agents about your options? I guess. Yeah. Awesome. Connecting you now."
+  }
+]

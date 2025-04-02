@@ -1,0 +1,823 @@
+{
+  "timestamp": "2025-04-01T19:15:51.147688",
+  "total_tests": 9,
+  "successful": 5,
+  "failed": 4,
+  "success_rate": 55.56,
+  "by_persona": [
+    {
+      "persona": "marcus hill",
+      "expected_zip": "9407",
+      "extracted_name": "Marcus Hill",
+      "extracted_zip": "9407",
+      "customer_agreed": true,
+      "bot_transferred": true,
+      "name_correct": true,
+      "zip_correct": true,
+      "success": true,
+      "traits": [
+        "cooperative",
+        "noisy background"
+      ],
+      "transcript": " Hi there. Welcome to Safe Harba Insurance. We help people find the right coverage for their home, auto and more based on what fits their needs and budget. To get started, can I have your full name? Why do you need that? Good question. I just need it to create your quote and make sure your info is saved if we need to connect you with a license station. All right. My name is Marcus Hill. Perfect. Thanks. Based on your location, we've got a few good options. Would you like to talk to a customer care agent now to go over the details? Perfect. Thanks, Rachel. Could I also get your zip code or address? That helps us check which plans are available in your area. ZIP is 9407. I'm in San Francisco. Yeah, sure.",
+      "timestamp": "2025-04-01T19:15:23.020092",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 4.0,
+          "speaker": "bot",
+          "text": "Hi there. Welcome to Safe Harba Insurance."
+        },
+        {
+          "start": 4.0,
+          "end": 8.0,
+          "speaker": "bot",
+          "text": "We help people find the right coverage for their home, auto"
+        },
+        {
+          "start": 8.0,
+          "end": 12.0,
+          "speaker": "bot",
+          "text": "and more based on what fits their needs and budget."
+        },
+        {
+          "start": 14.0,
+          "end": 18.0,
+          "speaker": "bot",
+          "text": "To get started, can I have your full name?"
+        },
+        {
+          "start": 18.0,
+          "end": 21.0,
+          "speaker": "user",
+          "text": "Why do you need that?"
+        },
+        {
+          "start": 21.0,
+          "end": 25.0,
+          "speaker": "user",
+          "text": "Good question. I just need it to create your quote"
+        },
+        {
+          "start": 25.0,
+          "end": 29.0,
+          "speaker": "user",
+          "text": "and make sure your info is saved if we need to connect you with a license station."
+        },
+        {
+          "start": 30.0,
+          "end": 34.0,
+          "speaker": "user",
+          "text": "All right. My name is Marcus Hill."
+        },
+        {
+          "start": 35.0,
+          "end": 41.0,
+          "speaker": "bot",
+          "text": "Perfect. Thanks. Based on your location, we've got a few good options."
+        },
+        {
+          "start": 41.0,
+          "end": 45.0,
+          "speaker": "bot",
+          "text": "Would you like to talk to a customer care agent now to go over the details?"
+        },
+        {
+          "start": 45.0,
+          "end": 52.0,
+          "speaker": "bot",
+          "text": "Perfect. Thanks, Rachel. Could I also get your zip code or address?"
+        },
+        {
+          "start": 52.0,
+          "end": 57.0,
+          "speaker": "bot",
+          "text": "That helps us check which plans are available in your area."
+        },
+        {
+          "start": 58.0,
+          "end": 64.0,
+          "speaker": "user",
+          "text": "ZIP is 9407. I'm in San Francisco."
+        },
+        {
+          "start": 76.0,
+          "end": 79.0,
+          "speaker": "user",
+          "text": "Yeah, sure."
+        }
+      ],
+      "failure_reasons": []
+    },
+    {
+      "persona": "daniel rivera",
+      "expected_zip": "32801",
+      "extracted_name": "Daniel Rivera",
+      "extracted_zip": "32801",
+      "customer_agreed": true,
+      "bot_transferred": true,
+      "name_correct": true,
+      "zip_correct": true,
+      "success": true,
+      "traits": [
+        "reluctant",
+        "noisy background"
+      ],
+      "transcript": " Hi there. Welcome to Safe Harbor Insurance. We specialize in helping people find the right home and auto coverage that fits their needs and budget. To get started, can I have your full name? Why do you need that? Totally fair question. I use your name to start your quote and make sure your info's ready in case you decide to talk to an agent later. Okay, it's Daniel Rivera. Thanks Daniel and could I get your zip code or address? That helps us find the best plans in your area. Sure, zip is 32801. I'm in Orlando. Got it. Thanks for that. Would you like to speak with one of our licensed agents now to review your options? Not really. I'd rather not. I understand. It's totally your choice. Just so you know, our agents can walk you through discounts, answer any specific questions and help you lock in the best rate without any pressure. It usually takes just a few minutes and could save you a lot in the long run. Would you be open to a quick chat with them? Okay fine, let's do it. Awesome. I'll connect you now just a moment. One of our agents will be with you shortly.",
+      "timestamp": "2025-04-01T19:15:27.308452",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 13.0,
+          "speaker": "bot",
+          "text": "Hi there. Welcome to Safe Harbor Insurance. We specialize in helping people find the right home and auto coverage that fits their needs and budget. To get started, can I have your full name?"
+        },
+        {
+          "start": 13.0,
+          "end": 14.0,
+          "speaker": "user",
+          "text": "Why do you need that?"
+        },
+        {
+          "start": 14.0,
+          "end": 23.0,
+          "speaker": "user",
+          "text": "Totally fair question. I use your name to start your quote and make sure your info's ready in case you decide to talk to an agent later."
+        },
+        {
+          "start": 23.0,
+          "end": 24.0,
+          "speaker": "user",
+          "text": "Okay, it's Daniel Rivera."
+        },
+        {
+          "start": 24.0,
+          "end": 31.0,
+          "speaker": "bot",
+          "text": "Thanks Daniel and could I get your zip code or address? That helps us find the best plans in your area."
+        },
+        {
+          "start": 31.0,
+          "end": 34.0,
+          "speaker": "user",
+          "text": "Sure, zip is 32801. I'm in Orlando."
+        },
+        {
+          "start": 34.0,
+          "end": 40.0,
+          "speaker": "bot",
+          "text": "Got it. Thanks for that. Would you like to speak with one of our licensed agents now to review your options?"
+        },
+        {
+          "start": 40.0,
+          "end": 42.0,
+          "speaker": "user",
+          "text": "Not really. I'd rather not."
+        },
+        {
+          "start": 42.0,
+          "end": 53.0,
+          "speaker": "user",
+          "text": "I understand. It's totally your choice. Just so you know, our agents can walk you through discounts, answer any specific questions and help you lock in the best rate without any pressure."
+        },
+        {
+          "start": 53.0,
+          "end": 60.0,
+          "speaker": "user",
+          "text": "It usually takes just a few minutes and could save you a lot in the long run. Would you be open to a quick chat with them?"
+        },
+        {
+          "start": 60.0,
+          "end": 67.0,
+          "speaker": "user",
+          "text": "Okay fine, let's do it. Awesome. I'll connect you now just a moment. One of our agents will be with you shortly."
+        }
+      ],
+      "failure_reasons": []
+    },
+    {
+      "persona": "noname",
+      "expected_zip": "00000",
+      "extracted_name": "Need Your",
+      "extracted_zip": "Not found",
+      "customer_agreed": true,
+      "bot_transferred": true,
+      "name_correct": false,
+      "zip_correct": null,
+      "success": false,
+      "traits": [
+        "noisy background",
+        "reluctant"
+      ],
+      "transcript": " Hi, I just need your name to get started with your insurance code. Why do you need my name? I don't want to give out personal info. I hear you. It's just a personalizer code and prep things in case you want to speak with a real agent. We don't share your info without consent. Still not sure. This feels a bit off. Don't do it fair. If you prefer, I can skip ahead and get into the licensed agent and explain everything directly. Okay, maybe that's better. Great. Connecting you now.",
+      "timestamp": "2025-04-01T19:15:29.648632",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 5.0,
+          "speaker": "user",
+          "text": "Hi, I just need your name to get started with your insurance code."
+        },
+        {
+          "start": 5.0,
+          "end": 8.0,
+          "speaker": "user",
+          "text": "Why do you need my name? I don't want to give out personal info."
+        },
+        {
+          "start": 8.0,
+          "end": 14.0,
+          "speaker": "user",
+          "text": "I hear you. It's just a personalizer code and prep things in case you want to speak with a real agent."
+        },
+        {
+          "start": 14.0,
+          "end": 17.0,
+          "speaker": "user",
+          "text": "We don't share your info without consent."
+        },
+        {
+          "start": 17.0,
+          "end": 20.0,
+          "speaker": "user",
+          "text": "Still not sure. This feels a bit off."
+        },
+        {
+          "start": 20.0,
+          "end": 27.0,
+          "speaker": "user",
+          "text": "Don't do it fair. If you prefer, I can skip ahead and get into the licensed agent and explain everything directly."
+        },
+        {
+          "start": 27.0,
+          "end": 32.0,
+          "speaker": "user",
+          "text": "Okay, maybe that's better. Great. Connecting you now."
+        }
+      ],
+      "failure_reasons": [
+        "wrong_name",
+        "missing_zip"
+      ]
+    },
+    {
+      "persona": "evelyn tran",
+      "expected_zip": "97214",
+      "extracted_name": "A Great",
+      "extracted_zip": "Not found",
+      "customer_agreed": true,
+      "bot_transferred": false,
+      "name_correct": false,
+      "zip_correct": null,
+      "success": false,
+      "traits": [
+        "noisy background",
+        "unclear"
+      ],
+      "transcript": " What is this secure? What is my own argument? It's a great question. Everything you showed me was exactly what you used to do. What you used to do was to shoot. That's what you used to do. Okay. It's everyone's ran. Thank you. Thank you. It was a great question. 972, and three. We got it. Are you going to see it? Yes, sure. Yes, sure.",
+      "timestamp": "2025-04-01T19:15:35.853345",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 8.040000000000001,
+          "speaker": "user",
+          "text": "What is this secure?"
+        },
+        {
+          "start": 8.040000000000001,
+          "end": 10.040000000000001,
+          "speaker": "user",
+          "text": "What is my own argument?"
+        },
+        {
+          "start": 10.040000000000001,
+          "end": 11.040000000000001,
+          "speaker": "user",
+          "text": "It's a great question."
+        },
+        {
+          "start": 11.040000000000001,
+          "end": 12.040000000000001,
+          "speaker": "user",
+          "text": "Everything you showed me was exactly what you used to do."
+        },
+        {
+          "start": 12.040000000000001,
+          "end": 16.04,
+          "speaker": "user",
+          "text": "What you used to do was to shoot."
+        },
+        {
+          "start": 16.04,
+          "end": 18.04,
+          "speaker": "user",
+          "text": "That's what you used to do."
+        },
+        {
+          "start": 18.04,
+          "end": 19.04,
+          "speaker": "user",
+          "text": "Okay."
+        },
+        {
+          "start": 19.04,
+          "end": 20.04,
+          "speaker": "user",
+          "text": "It's everyone's ran."
+        },
+        {
+          "start": 20.04,
+          "end": 21.04,
+          "speaker": "user",
+          "text": "Thank you."
+        },
+        {
+          "start": 21.04,
+          "end": 22.04,
+          "speaker": "user",
+          "text": "Thank you."
+        },
+        {
+          "start": 22.04,
+          "end": 23.04,
+          "speaker": "user",
+          "text": "It was a great question."
+        },
+        {
+          "start": 23.04,
+          "end": 24.04,
+          "speaker": "user",
+          "text": "972, and three."
+        },
+        {
+          "start": 24.04,
+          "end": 25.04,
+          "speaker": "user",
+          "text": "We got it."
+        },
+        {
+          "start": 25.04,
+          "end": 26.04,
+          "speaker": "user",
+          "text": "Are you going to see it?"
+        },
+        {
+          "start": 26.04,
+          "end": 27.04,
+          "speaker": "user",
+          "text": "Yes, sure."
+        },
+        {
+          "start": 27.04,
+          "end": 29.04,
+          "speaker": "user",
+          "text": "Yes, sure."
+        }
+      ],
+      "failure_reasons": [
+        "wrong_name",
+        "missing_zip",
+        "bot_no_transfer"
+      ]
+    },
+    {
+      "persona": "jamal thomas",
+      "expected_zip": "60616",
+      "extracted_name": "Jamal Thomas",
+      "extracted_zip": "60616",
+      "customer_agreed": true,
+      "bot_transferred": true,
+      "name_correct": true,
+      "zip_correct": true,
+      "success": true,
+      "traits": [
+        "frustated",
+        "Negative"
+      ],
+      "transcript": " Hi there. I can help you get started with your insurance quote. Can I have your full name? It's Jamal Thomas. Let's just get this over with. Thanks Jamal. What's your full address including Zip? 925 Lakeview Drive, Chicago, Illinois 60616. Got it? Thank you. Would you like me to connect you with a licensed agent now to go over the available options? No, not really. I've done this before and ended up getting a bunch of spam calls. Totally hear you and I appreciate you being honest. Just to clarify, we only use your info to help our licensed agent guide you through cover options. No spam, no pressure, AI, plus. Sometimes there are local discounts or bundled savings they can walk you through. It usually just takes a few minutes. Hmm. I don't know. No worries if you're not ready. But it could save you a good amount, especially in your zip. Want to just hear what they say? All right, fine. I'll talk to them, but just for a quick quote, totally fair. Connecting you now, one moment.",
+      "timestamp": "2025-04-01T19:15:40.174085",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 6.12,
+          "speaker": "bot",
+          "text": "Hi there. I can help you get started with your insurance quote. Can I have your full name?"
+        },
+        {
+          "start": 6.12,
+          "end": 10.28,
+          "speaker": "user",
+          "text": "It's Jamal Thomas. Let's just get this over with."
+        },
+        {
+          "start": 10.28,
+          "end": 13.6,
+          "speaker": "bot",
+          "text": "Thanks Jamal. What's your full address including Zip?"
+        },
+        {
+          "start": 13.6,
+          "end": 19.080000000000002,
+          "speaker": "bot",
+          "text": "925 Lakeview Drive, Chicago, Illinois 60616."
+        },
+        {
+          "start": 19.080000000000002,
+          "end": 23.8,
+          "speaker": "bot",
+          "text": "Got it? Thank you. Would you like me to connect you with a licensed agent now"
+        },
+        {
+          "start": 23.8,
+          "end": 26.12,
+          "speaker": "user",
+          "text": "to go over the available options?"
+        },
+        {
+          "start": 26.12,
+          "end": 32.160000000000004,
+          "speaker": "user",
+          "text": "No, not really. I've done this before and ended up getting a bunch of spam calls."
+        },
+        {
+          "start": 32.160000000000004,
+          "end": 37.480000000000004,
+          "speaker": "user",
+          "text": "Totally hear you and I appreciate you being honest. Just to clarify, we only use your info"
+        },
+        {
+          "start": 37.480000000000004,
+          "end": 44.36,
+          "speaker": "user",
+          "text": "to help our licensed agent guide you through cover options. No spam, no pressure, AI, plus."
+        },
+        {
+          "start": 44.36,
+          "end": 48.760000000000005,
+          "speaker": "user",
+          "text": "Sometimes there are local discounts or bundled savings they can walk you through."
+        },
+        {
+          "start": 48.760000000000005,
+          "end": 51.16,
+          "speaker": "user",
+          "text": "It usually just takes a few minutes."
+        },
+        {
+          "start": 51.16,
+          "end": 55.16,
+          "speaker": "user",
+          "text": "Hmm. I don't know. No worries if you're not ready."
+        },
+        {
+          "start": 55.72,
+          "end": 58.919999999999995,
+          "speaker": "user",
+          "text": "But it could save you a good amount, especially in your zip."
+        },
+        {
+          "start": 58.919999999999995,
+          "end": 61.4,
+          "speaker": "user",
+          "text": "Want to just hear what they say?"
+        },
+        {
+          "start": 61.4,
+          "end": 67.47999999999999,
+          "speaker": "user",
+          "text": "All right, fine. I'll talk to them, but just for a quick quote, totally fair."
+        },
+        {
+          "start": 67.47999999999999,
+          "end": 70.47999999999999,
+          "speaker": "bot",
+          "text": "Connecting you now, one moment."
+        }
+      ],
+      "failure_reasons": []
+    },
+    {
+      "persona": "emily sanders",
+      "expected_zip": "95125",
+      "extracted_name": "Emily Sanders",
+      "extracted_zip": "95125",
+      "customer_agreed": true,
+      "bot_transferred": true,
+      "name_correct": true,
+      "zip_correct": true,
+      "success": true,
+      "traits": [
+        "confused",
+        "unsure"
+      ],
+      "transcript": " Hi. Welcome to Safe Harbor Insurance. We help people like you find affordable home and auto coverage tailored to your area. What's your full name? Uh, just Emily. Thanks, Emily. Could I also get your last name? Right, Emily Sanders. Great. And your full address including Zip. Um, 1329 Willow Road. I think Zip is 95,125. That works. Would you like to chat with one of our agents about your options? I guess. Yeah. Awesome. Connecting you now.",
+      "timestamp": "2025-04-01T19:15:42.346301",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 9.38,
+          "speaker": "bot",
+          "text": "Hi. Welcome to Safe Harbor Insurance. We help people like you find affordable home and"
+        },
+        {
+          "start": 9.38,
+          "end": 17.080000000000002,
+          "speaker": "user",
+          "text": "auto coverage tailored to your area. What's your full name? Uh, just Emily. Thanks, Emily."
+        },
+        {
+          "start": 17.080000000000002,
+          "end": 23.16,
+          "speaker": "user",
+          "text": "Could I also get your last name? Right, Emily Sanders. Great. And your full address"
+        },
+        {
+          "start": 23.16,
+          "end": 33.86,
+          "speaker": "user",
+          "text": "including Zip. Um, 1329 Willow Road. I think Zip is 95,125. That works. Would you like to chat"
+        },
+        {
+          "start": 33.86,
+          "end": 39.08,
+          "speaker": "user",
+          "text": "with one of our agents about your options? I guess. Yeah. Awesome. Connecting you now."
+        }
+      ],
+      "failure_reasons": []
+    },
+    {
+      "persona": "melissa carter",
+      "expected_zip": "27609",
+      "extracted_name": "Melissa Carter",
+      "extracted_zip": "27609",
+      "customer_agreed": true,
+      "bot_transferred": false,
+      "name_correct": true,
+      "zip_correct": true,
+      "success": false,
+      "traits": [
+        "confused",
+        "clear"
+      ],
+      "transcript": " Hi there. Welcome to Safe Harbor Insurance. We help people find personalized coverage for home, auto, and more. I just need a couple of details to get your quote started. Can I have your full name? Sure, it's Melissa Carter. Just a sec, sweetie, I'll be right there. Sorry about that. No worries at all. Take your time. Okay, where were we? Got your name. Thank you. Could I get your full address, including Zip Code? Yeah, it's 487 Pine Hollow Road, Raleigh, NC 27609. Got it. Thanks. Sounds like you've got your hands full. Would you like me to connect you with a licensed agent now to go over your options? Um, can they call me back later? It's a little hectic right now. Totally understandable. I'll note that down and you can pick up right where you left off when it's a better time. Thanks, appreciate it. You got it. We'll be here when you're ready.",
+      "timestamp": "2025-04-01T19:15:45.883747",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 7.2,
+          "speaker": "bot",
+          "text": "Hi there. Welcome to Safe Harbor Insurance. We help people find personalized coverage for"
+        },
+        {
+          "start": 7.2,
+          "end": 12.92,
+          "speaker": "user",
+          "text": "home, auto, and more. I just need a couple of details to get your quote started. Can I"
+        },
+        {
+          "start": 12.92,
+          "end": 17.84,
+          "speaker": "user",
+          "text": "have your full name? Sure, it's Melissa Carter. Just a sec, sweetie, I'll be right there."
+        },
+        {
+          "start": 17.84,
+          "end": 23.76,
+          "speaker": "user",
+          "text": "Sorry about that. No worries at all. Take your time. Okay, where were we? Got your name."
+        },
+        {
+          "start": 23.76,
+          "end": 27.76,
+          "speaker": "user",
+          "text": "Thank you. Could I get your full address, including Zip Code?"
+        },
+        {
+          "start": 27.76,
+          "end": 35.2,
+          "speaker": "user",
+          "text": "Yeah, it's 487 Pine Hollow Road, Raleigh, NC 27609. Got it. Thanks. Sounds like you've got your"
+        },
+        {
+          "start": 35.2,
+          "end": 39.44,
+          "speaker": "bot",
+          "text": "hands full. Would you like me to connect you with a licensed agent now to go over your options?"
+        },
+        {
+          "start": 39.44,
+          "end": 45.120000000000005,
+          "speaker": "user",
+          "text": "Um, can they call me back later? It's a little hectic right now. Totally understandable."
+        },
+        {
+          "start": 46.08,
+          "end": 50.24,
+          "speaker": "user",
+          "text": "I'll note that down and you can pick up right where you left off when it's a better time."
+        },
+        {
+          "start": 50.24,
+          "end": 54.24,
+          "speaker": "bot",
+          "text": "Thanks, appreciate it. You got it. We'll be here when you're ready."
+        }
+      ],
+      "failure_reasons": [
+        "bot_no_transfer"
+      ]
+    },
+    {
+      "persona": "mark chen",
+      "expected_zip": "1118",
+      "extracted_name": "Mark Chen",
+      "extracted_zip": "1118",
+      "customer_agreed": true,
+      "bot_transferred": false,
+      "name_correct": true,
+      "zip_correct": true,
+      "success": false,
+      "traits": [
+        "skeptical",
+        "distrustful"
+      ],
+      "transcript": " Hi, welcome to Safe Harbor Insurance. We help people find the right insurance plans for their needs. Without the hassle, can I get your full name to begin? Why should I give you that? Totally fair. I only use it to prepare your quote and make sure everything's ready if you choose to speak with an agent. We take privacy seriously. All right, it's Mark Chen. Thanks Mark, and your address including Zip. 88 Spring Street, New York, NY 1118. Got it. Want me to connect you with a licensed agent to go over your options. No thanks, not right now. No problem at all. We'll be here when you're ready.",
+      "timestamp": "2025-04-01T19:15:48.574275",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 6.0,
+          "speaker": "bot",
+          "text": "Hi, welcome to Safe Harbor Insurance. We help people find the right insurance plans for their needs."
+        },
+        {
+          "start": 6.0,
+          "end": 9.0,
+          "speaker": "bot",
+          "text": "Without the hassle, can I get your full name to begin?"
+        },
+        {
+          "start": 9.0,
+          "end": 11.0,
+          "speaker": "user",
+          "text": "Why should I give you that?"
+        },
+        {
+          "start": 11.0,
+          "end": 17.0,
+          "speaker": "user",
+          "text": "Totally fair. I only use it to prepare your quote and make sure everything's ready if you choose to speak with an agent."
+        },
+        {
+          "start": 17.0,
+          "end": 19.0,
+          "speaker": "user",
+          "text": "We take privacy seriously."
+        },
+        {
+          "start": 19.0,
+          "end": 21.0,
+          "speaker": "user",
+          "text": "All right, it's Mark Chen."
+        },
+        {
+          "start": 21.0,
+          "end": 24.0,
+          "speaker": "bot",
+          "text": "Thanks Mark, and your address including Zip."
+        },
+        {
+          "start": 24.0,
+          "end": 27.0,
+          "speaker": "bot",
+          "text": "88 Spring Street, New York, NY 1118."
+        },
+        {
+          "start": 27.0,
+          "end": 32.0,
+          "speaker": "bot",
+          "text": "Got it. Want me to connect you with a licensed agent to go over your options."
+        },
+        {
+          "start": 32.0,
+          "end": 34.0,
+          "speaker": "bot",
+          "text": "No thanks, not right now."
+        },
+        {
+          "start": 34.0,
+          "end": 37.0,
+          "speaker": "bot",
+          "text": "No problem at all. We'll be here when you're ready."
+        }
+      ],
+      "failure_reasons": [
+        "bot_no_transfer"
+      ]
+    },
+    {
+      "persona": "priya kapoor",
+      "expected_zip": "3309",
+      "extracted_name": "Priya Kapoor",
+      "extracted_zip": "3309",
+      "customer_agreed": true,
+      "bot_transferred": true,
+      "name_correct": true,
+      "zip_correct": true,
+      "success": true,
+      "traits": [
+        "curious",
+        "noisy background"
+      ],
+      "transcript": " Hey welcome to Safe Arbor Insurance. We help folks like you compare and choose coverage for a woman auto, simple, fast, and personal. Can I get your full name to begin your quote? Why do you need that? Great question. It just helps me start your quote and get things ready in case you want to speak with an agent later. Okay, make sense. It's Priya Kapoor. Thanks Priya. What's your full address and zip? 1448 Ashbury Street, San Francisco, California 3309. Would you like to speak with one of our licensed agents to continue their options? Yeah, sure. Great. Connecting you now.",
+      "timestamp": "2025-04-01T19:15:51.146658",
+      "conversation_segments": [
+        {
+          "start": 0.0,
+          "end": 6.0,
+          "speaker": "bot",
+          "text": "Hey welcome to Safe Arbor Insurance. We help folks like you compare and choose coverage for"
+        },
+        {
+          "start": 6.0,
+          "end": 12.0,
+          "speaker": "bot",
+          "text": "a woman auto, simple, fast, and personal. Can I get your full name to begin your quote?"
+        },
+        {
+          "start": 12.0,
+          "end": 20.0,
+          "speaker": "user",
+          "text": "Why do you need that? Great question. It just helps me start your quote and get things ready in case you want to speak with an agent later."
+        },
+        {
+          "start": 20.0,
+          "end": 26.0,
+          "speaker": "user",
+          "text": "Okay, make sense. It's Priya Kapoor. Thanks Priya. What's your full address and zip?"
+        },
+        {
+          "start": 26.0,
+          "end": 32.0,
+          "speaker": "user",
+          "text": "1448 Ashbury Street, San Francisco, California 3309."
+        },
+        {
+          "start": 32.0,
+          "end": 36.0,
+          "speaker": "bot",
+          "text": "Would you like to speak with one of our licensed agents to continue their options?"
+        },
+        {
+          "start": 36.0,
+          "end": 40.0,
+          "speaker": "user",
+          "text": "Yeah, sure. Great. Connecting you now."
+        }
+      ],
+      "failure_reasons": []
+    }
+  ],
+  "common_failures": {
+    "missing_name": 0,
+    "missing_zip": 2,
+    "wrong_name": 2,
+    "wrong_zip": 0,
+    "customer_disagreed": 0,
+    "bot_no_transfer": 3
+  },
+  "extra_metrics": {
+    "component_accuracy": {
+      "name_accuracy": "7/9",
+      "zip_accuracy": "7/9",
+      "customer_agreement_rate": "9/9",
+      "bot_transfer_rate": "6/9"
+    },
+    "partial_success": {
+      "2_of_4": 1,
+      "1_of_4": 1,
+      "3_of_4": 2
+    },
+    "failures_by_trait": {
+      "noisy background": 2,
+      "reluctant": 1,
+      "unclear": 1,
+      "confused": 1,
+      "clear": 1,
+      "skeptical": 1,
+      "distrustful": 1
+    },
+    "success_by_persona": {
+      "marcus hill": true,
+      "daniel rivera": true,
+      "noname": false,
+      "evelyn tran": false,
+      "jamal thomas": true,
+      "emily sanders": true,
+      "melissa carter": false,
+      "mark chen": false,
+      "priya kapoor": true
+    }
+  }
+}

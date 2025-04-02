@@ -1,0 +1,68 @@
+[
+  {
+    "start": 0.0,
+    "end": 13.0,
+    "speaker": "bot",
+    "text": "Hi there. Welcome to Safe Harbor Insurance. We specialize in helping people find the right home and auto coverage that fits their needs and budget. To get started, can I have your full name?"
+  },
+  {
+    "start": 13.0,
+    "end": 14.0,
+    "speaker": "user",
+    "text": "Why do you need that?"
+  },
+  {
+    "start": 14.0,
+    "end": 23.0,
+    "speaker": "user",
+    "text": "Totally fair question. I use your name to start your quote and make sure your info's ready in case you decide to talk to an agent later."
+  },
+  {
+    "start": 23.0,
+    "end": 24.0,
+    "speaker": "user",
+    "text": "Okay, it's Daniel Rivera."
+  },
+  {
+    "start": 24.0,
+    "end": 31.0,
+    "speaker": "bot",
+    "text": "Thanks Daniel and could I get your zip code or address? That helps us find the best plans in your area."
+  },
+  {
+    "start": 31.0,
+    "end": 34.0,
+    "speaker": "user",
+    "text": "Sure, zip is 32801. I'm in Orlando."
+  },
+  {
+    "start": 34.0,
+    "end": 40.0,
+    "speaker": "bot",
+    "text": "Got it. Thanks for that. Would you like to speak with one of our licensed agents now to review your options?"
+  },
+  {
+    "start": 40.0,
+    "end": 42.0,
+    "speaker": "user",
+    "text": "Not really. I'd rather not."
+  },
+  {
+    "start": 42.0,
+    "end": 53.0,
+    "speaker": "user",
+    "text": "I understand. It's totally your choice. Just so you know, our agents can walk you through discounts, answer any specific questions and help you lock in the best rate without any pressure."
+  },
+  {
+    "start": 53.0,
+    "end": 60.0,
+    "speaker": "user",
+    "text": "It usually takes just a few minutes and could save you a lot in the long run. Would you be open to a quick chat with them?"
+  },
+  {
+    "start": 60.0,
+    "end": 67.0,
+    "speaker": "user",
+    "text": "Okay fine, let's do it. Awesome. I'll connect you now just a moment. One of our agents will be with you shortly."
+  }
+]

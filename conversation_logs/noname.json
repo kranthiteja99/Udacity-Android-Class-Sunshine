@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.0,
+    "speaker": "user",
+    "text": "Hi, I just need your name to get started with your insurance code."
+  },
+  {
+    "start": 5.0,
+    "end": 8.0,
+    "speaker": "user",
+    "text": "Why do you need my name? I don't want to give out personal info."
+  },
+  {
+    "start": 8.0,
+    "end": 14.0,
+    "speaker": "user",
+    "text": "I hear you. It's just a personalizer code and prep things in case you want to speak with a real agent."
+  },
+  {
+    "start": 14.0,
+    "end": 17.0,
+    "speaker": "user",
+    "text": "We don't share your info without consent."
+  },
+  {
+    "start": 17.0,
+    "end": 20.0,
+    "speaker": "user",
+    "text": "Still not sure. This feels a bit off."
+  },
+  {
+    "start": 20.0,
+    "end": 27.0,
+    "speaker": "user",
+    "text": "Don't do it fair. If you prefer, I can skip ahead and get into the licensed agent and explain everything directly."
+  },
+  {
+    "start": 27.0,
+    "end": 32.0,
+    "speaker": "user",
+    "text": "Okay, maybe that's better. Great. Connecting you now."
+  }
+]

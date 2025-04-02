@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.06,
+    "speaker": "bot",
+    "text": "Hi, what's your name? My name is Kronti Taja. What is your zip code?"
+  },
+  {
+    "start": 2.06,
+    "end": 4.12,
+    "speaker": "user",
+    "text": "Hi, what's your name? My name is Kronti Taja. What is your zip code?"
+  },
+  {
+    "start": 4.84,
+    "end": 8.84,
+    "speaker": "bot",
+    "text": "9997-8. Do you want to talk to customer care executive?"
+  },
+  {
+    "start": 9.44,
+    "end": 12.200000000000001,
+    "speaker": "user",
+    "text": "Yes, transferring you to customer care executive."
+  }
+]

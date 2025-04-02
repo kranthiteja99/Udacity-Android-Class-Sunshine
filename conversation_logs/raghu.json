@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "speaker": "bot",
+    "text": "Hi, this is Chad Klaat from Insurance Company."
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "speaker": "bot",
+    "text": "What is your name?"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "speaker": "user",
+    "text": "My name is Raghu."
+  },
+  {
+    "start": 13.0,
+    "end": 15.0,
+    "speaker": "bot",
+    "text": "What's your zip code?"
+  },
+  {
+    "start": 17.0,
+    "end": 20.0,
+    "speaker": "bot",
+    "text": "14-215."
+  },
+  {
+    "start": 24.0,
+    "end": 27.0,
+    "speaker": "bot",
+    "text": "Do you want to talk to our customer care executive?"
+  },
+  {
+    "start": 28.0,
+    "end": 29.0,
+    "speaker": "user",
+    "text": "Yes."
+  },
+  {
+    "start": 30.0,
+    "end": 33.0,
+    "speaker": "bot",
+    "text": "Transferring your call."
+  }
+]
